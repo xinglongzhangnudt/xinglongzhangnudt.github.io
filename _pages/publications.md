@@ -37,11 +37,11 @@ Jiahang Liu, Zhenhua Huang, Xin Xu, <b>Xinglong Zhang</b>, Shiliang Sun, and Daz
 
 <b>[Multi-rate model predictive control algorithm for systems with fast-slow dynamics](https://digital-library.theiet.org/content/journals/10.1049/iet-cta.2018.5220)</b><br>
 <b>Xinglong Zhang</b>,  Marcello Farina, Stefano Spinelli, and Riccardo Scattolini.<br>
-<i>IEEE Transaction on Automatic Control.</i> <b>2016</b>.
+<i>IET Control Theory & Applications.</i> <b>2018</b>.
 
 <b>[A hierarchical Lyapunov-based cascade adaptive control scheme for lower-limb exoskeleton](https://digital-library.theiet.org/content/journals/10.1049/iet-cta.2018.5220)</b><br>
 <b>Xinglong Zhang</b>,  WeiJiang, ZhizhongLi, and Shengli Song.<br>
-<i>European Journal of Control.</i> <b>2016</b>.
+<i>European Journal of Control.</i> <b>2019</b>.
 
 
 
