@@ -14,7 +14,6 @@ author_profile: true
 <b>[Robust Tube-based Model Predictive Control with Koopman Operators](https://arxiv.org/abs/2108.13011)</b><br>
 <b>Xinglong Zhang</b>, Wei Pan, Riccardo Scattolini, Shuyou Yu, and Xin Xu.<br>
 <i>Automatica.</i> <b>2021</b>.
-* November 2, 2021, Our paper "基于滚动时域强化学习的智能车辆侧向控制算法 (doi:10.16383/j.aas.c210555)" accepted to 自动化学报 (ACTA AUTOMATICA SINICA)!
 
 <b>[基于滚动时域强化学习的智能车辆侧向控制算法](doi:10.16383/j.aas.c210555)</b><br>
 <b>Xinglong Zhang</b>, Yang Lu, Wenzhang Li, and Xin Xu.<br>
