@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Pan"
+title                    : "Xinglong Zhang"
 title_separator          : "-"
-name                     : &name "Wei Pan"
+name                     : &name "Xinglong Zhang"
 description              : &description "personal description"
-url                      : https://panweihit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xinglongzhangnudt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "xinglongzhangnudt/xinglongzhangnudt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Pan"
+  name             : "Xinglong Zhang"
   avatar           : "weipan.jpeg"
   bio              : "Assistant Professor, Department of Cognitive Robotics, TU Delft"
   location         : "Delft, Netherlands"
