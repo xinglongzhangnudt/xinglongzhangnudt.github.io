@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an [Assistant Professor](https://www.tudelft.nl/en/staff/wei.pan/) at [Robot Dynamics Section](https://www.tudelft.nl/3me/afdelingen/biomechanical-engineering/research/dbl-delft-biorobotics-lab/) as part of the [Department of Cognitive Robotics](https://www.tudelft.nl/en/3me/departments/cognitive-robotics-cor/), [Faculty of Mechanical, Maritime and Materials Engineering (3mE)](https://www.tudelft.nl/en/3me/), [Delft University of Technology](https://www.tudelft.nl/en/). 
+I am an [Associate Professor] at College of Inteligence Science and Technology, National University of Defense Technology, Changsha, China. 
 
 I have a broad interest in robot dynamics by combining (Bayesian) machine learning and the principles of dynamic control. Currently, I am interested in Bayesian deep learning and (multi-agent) reinforcement learning for (physical) system identification, state estimation, planning and control.
+My research includes learning-based predictive control, safe reinforcement learning and their application in robottics, with a special focus on autonomous vehicles
 
 Recent News 
 ======
