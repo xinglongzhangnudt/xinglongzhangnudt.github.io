@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an [Associate Professor] at College of Inteligence Science and Technology, National University of Defense Technology, Changsha, China. 
+I am an Associate Professor at College of Inteligence Science and Technology, National University of Defense Technology, Changsha, China. 
 
 My research includes learning-based predictive control, safe reinforcement learning and their application in robottics, with a special focus on autonomous vehicles
 
