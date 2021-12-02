@@ -12,11 +12,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Software"
-    url: /software/ 
+ # - title: "Software"
+  #  url: /software/ 
     
-  - title: "Robots"
-    url: /portfolio/
+ # - title: "Robots"
+ #   url: /portfolio/
     
   - title: "Talks"
     url: /talks/  
