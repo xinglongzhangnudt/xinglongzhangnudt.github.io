@@ -19,7 +19,7 @@ Education
 
 Projects
 ======
-* Leader 2021-2024
+* Leader, 2021-2024
   * Founded by National Natural Science Foundation of China (NSFC) 
   * 滚动时域自学习优化控制及其在无人车辆运动规划中的应用
 * Leader, 2021-2022
@@ -32,3 +32,4 @@ Projects
 Awards
 ======
 * CSC PhD Scholarship, 2014-2018
+* Distinguished Young Scholars in NUDT
