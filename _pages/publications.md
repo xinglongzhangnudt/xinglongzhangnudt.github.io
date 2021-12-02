@@ -29,7 +29,7 @@ Bruno Picasso, <b>Xinglong Zhang</b>, and Riccardo Scattolini.<br>
 
 <b>[A Hierarchical MPC Scheme for Coordination of Independent Systems With Shared Resources and Plug-and-Play Capabilities](https://openreview.net/forum?id=rkl6As0cF7)</b><br>
 Marcello Farina, <b>Xinglong Zhang</b>, and Riccardo Scattolini.<br>
-<i>IEEE TRANSACTIONS ON CONTROL SYSTEMS TECHNOLOGY.</i> <b>2018</b>.
+<i>IEEE Transactions on Control Systems Technology.</i> <b>2018</b>.
 
 <b>[Multi-Kernel Online Reinforcement Learning for Path Tracking Control of Intelligent Vehicles](https://ieeexplore.ieee.org/abstract/document/8986835)</b><br>
 Jiahang Liu, Zhenhua Huang, Xin Xu, <b>Xinglong Zhang</b>, Shiliang Sun, and Dazi Li.<br>
