@@ -26,7 +26,7 @@ Projects
   * Funded by China Postdoctoral Science Foundation
   * 基于模型预测控制的轮式机器人自学习运动控制方法
 * Participant, 2019-2022
-  * Funded by the National Key R&D Program of China 2018YFB1305105
+  * Funded by the National Key R&D Program of China
   * 人机智能协同的自主学习理论与系统技术
 
 Awards
