@@ -1,11 +1,11 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=GqryWPsAAAAJ&hl=en)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=mJufxWQAAAAJ)"
 permalink: /publications/
 author_profile: true
 ---
 
 ## PhD Thesis
-<b>[Bayesian Learning for Nonlinear System Identification](http://panweihit.github.io/publications/thesis)</b><br>
+<b>[Hierarchical and multilayer control structures based on MPC for large-scale systems](https://www.politesi.polimi.it/bitstream/10589/137898/1/2018_02_PhD_Zhang.pdf)</b><br>
 <b>Wei Pan</b>.<br>
 <i>Imperial College London.</i> <b>2017</b>.
 
