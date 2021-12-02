@@ -79,27 +79,27 @@ analytics:
 # Site Author
 author:
   name             : "Xinglong Zhang"
-  avatar           : "weipan.jpeg"
-  bio              : "Assistant Professor, Department of Cognitive Robotics, TU Delft"
-  location         : "Delft, Netherlands"
-  employer         : "34-F-2-340"
-  googlescholar    : "https://scholar.google.com/citations?user=GqryWPsAAAAJ&hl=en"
-  email            : "wei.pan@tudelft.nl"
+  avatar           : "xinglongzhang.jpg"
+  bio              : "Associate Professor, College of Intelligence Science and Technology, National University of Defense Technology"
+  location         : "Changsha, China"
+ # employer         : "34-F-2-340"
+  googlescholar    : "https://scholar.google.com/citations?user=mJufxWQAAAAJ"
+  email            : "zhangxinglong18@nudt.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
-  researchgate     :  "https://www.researchgate.net/profile/Wei-Pan-21"
+  researchgate     :  "https://www.researchgate.net/profile/Xinglong-Zhang"
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "panweihit"
+  github           : "xinglongzhangnudt"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "wei-pan-6b558b17"
-  orcid            : "https://orcid.org/0000-0003-1121-9879"
+  linkedin         : "https://www.linkedin.com/in/%E5%85%B4%E9%BE%99-%E5%BC%A0-203801b1/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0587-2487"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
