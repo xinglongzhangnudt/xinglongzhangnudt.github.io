@@ -17,7 +17,7 @@ author_profile: true
 
 <b>[基于滚动时域强化学习的智能车辆侧向控制算法](doi:10.16383/j.aas.c210555)</b><br>
 <b>Xinglong Zhang</b>, Yang Lu, Wenzhang Li, and Xin Xu.<br>
-<i>自动化学报 (ACTA AUTOMATICA SINICA).</i> <b>2021</b>.
+<i>自动化学报 (Aata Automatica Sinica).</i> <b>2021</b>.
 
 <b>[A hierarchical multi-rate MPC scheme for interconnected systems](https://arxiv.org/abs/1705.08818)</b><br>
 Marcello Farina, <b>Xinglong Zhang</b>, and Riccardo Scattolini.<br>
@@ -40,7 +40,7 @@ Jiahang Liu, Zhenhua Huang, Xin Xu, <b>Xinglong Zhang</b>, Shiliang Sun, and Daz
 <i>IET Control Theory & Applications.</i> <b>2018</b>.
 
 <b>[A hierarchical Lyapunov-based cascade adaptive control scheme for lower-limb exoskeleton](https://digital-library.theiet.org/content/journals/10.1049/iet-cta.2018.5220)</b><br>
-<b>Xinglong Zhang</b>,  WeiJiang, ZhizhongLi, and Shengli Song.<br>
+<b>Xinglong Zhang</b>,  WeiJiang, Zhizhong Li, and Shengli Song.<br>
 <i>European Journal of Control.</i> <b>2019</b>.
 
 
