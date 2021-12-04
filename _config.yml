@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinglong Zhang (张兴龙)"
+title                    : "Xinglong Zhang"
 title_separator          : "-"
 name                     : &name "Xinglong Zhang (张兴龙)"
 description              : &description "personal description"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xinglong Zhang"
+  name             : "Xinglong Zhang (张兴龙)"
   avatar           : "xinglongzhang.jpg"
   bio              : "Associate Professor, College of Intelligence Science and Technology, National University of Defense Technology (NUDT)"
   location         : "Changsha, China"
