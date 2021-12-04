@@ -21,10 +21,11 @@ Projects
 ======
 * Leader, 2021-2024
   * Funded by National Natural Science Foundation of China (NSFC) 
-  * 滚动时域自学习优化控制及其在无人车辆运动规划中的应用
+  * Receding Horizon Self-learning Optimal Control and Its Applications
+on Motion Planning for Unmanned Ground Vehicles
 * Leader, 2021-2022
-  * Funded by China Postdoctoral Science Foundation
-  * 基于模型预测控制的轮式机器人自学习运动控制方法
+  * Funded by China Postdoctoral Science Special Foundation
+  * Self-learning motion control based on model predictive control for wheeled robots
 * Participant, 2019-2022
   * Funded by the National Key R&D Program of China
   * 人机智能协同的自主学习理论与系统技术
