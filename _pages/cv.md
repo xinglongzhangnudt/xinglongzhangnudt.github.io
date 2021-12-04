@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in [Systems and control](https://www.deib.polimi.it/eng/systems-and-control), [Politecnico di Milano](https://www.polimi.it/), 2018
+* Ph.D degree in [Systems and control](https://www.deib.polimi.it/eng/systems-and-control), [Politecnico di Milano](https://www.polimi.it/), 2018
   * Supervisor: [Prof. Riccardo Scattolini](https://scattolini.faculty.polimi.it/)
   * Co-supervisor: [Prof. Marcello Farina](https://farina.faculty.polimi.it/)
-* B.S in Mechatronics Engineering, [Zhejiang University](https://www.zju.edu.cn/english/), 2011
+* B.S degree in Mechatronics Engineering, [Zhejiang University](https://www.zju.edu.cn/english/), 2011
   * Supervisor: [Prof. Fan Ding](https://person.zju.edu.cn/index/)  
 
 Projects
