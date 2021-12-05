@@ -14,7 +14,7 @@ My research interests include learning-based predictive control, safe reinforcem
 Recent News 
 ======
 * November 30, 2021, Our paper "[Continuous‐time receding‐horizon reinforcement learning and its application to path‐tracking control of autonomous ground vehicles](http://doi.org/10.1002/oca.2832)" published at Optimal Control Applications and Methods!
-* November 2, 2021, Our paper "基于滚动时域强化学习的智能车辆侧向控制算法 (doi:10.16383/j.aas.c210555)" accepted to 自动化学报 (ACTA AUTOMATICA SINICA)!
+* November 2, 2021, Our paper "基于滚动时域强化学习的智能车辆侧向控制算法 (doi:10.16383/j.aas.c210555)" accepted to 自动化学报 (Acta Automatica Sinica)!
 * October 25, 2021, Our paper "[Robust Tube-based Model Predictive Control with Koopman Operators](https://arxiv.org/abs/2108.13011)" accepted to Automatica!
 * September 29, 2021, Our paper "[Dual heuristic programming with just‐in‐time modeling for self‐learning fault‐tolerant control of mobile robots](https://onlinelibrary.wiley.com/doi/10.1002/oca.2791)" published at Optimal Control Applications and Methods!
 
