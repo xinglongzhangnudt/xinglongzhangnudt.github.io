@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an Associate Professor at College of Inteligence Science and Technology, National University of Defense Technology (NUDT), Changsha, China. 
 
-My research interests include learning-based predictive control, safe reinforcement learning and their applications in robotics, with a special focus on autonomous vehicles
+My research interests include learning-based predictive control, safe reinforcement learning and their applications in robotics, with a special focus on autonomous vehicles.
 
 Recent News 
 ======
