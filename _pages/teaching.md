@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Current Teaching at NUDT
-* Reinforcement learning part in Machine learning Course, 2018
-* Reinforcement learning part in Machine learning Course, 2018
+* Reinforcement learning part in Machine learning Course, 2020
+* Reinforcement learning part in Machine learning Course, 2021
 
 
 
