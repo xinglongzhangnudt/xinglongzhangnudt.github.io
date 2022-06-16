@@ -13,7 +13,10 @@ My research interests include learning-based predictive control, safe reinforcem
 
 Recent News 
 ======
-* March 30, 2022, Our paper "A Receding-Horizon Reinforcement Learning Approach for Kinodynamic Motion Planning of Autonomous Vehicles" accepted to IEEE Transactiosn on Intelligent Vehicles 2022 (the early access version coming soon)!
+* I will serve a Guest Editor on a special issue at the Journal: Applied Sciences.
+* May, 2022, Our paper "[Deep Neural Networks with Koopman Operators for Modeling and Control of Autonomous Vehicles]([https://ieeexplore.ieee.org/document/9756946](https://ieeexplore.ieee.org/document/9790335))" accepted to IEEE Transactiosn on Intelligent Vehicles 2022!
+* I serve as a PC member at the 6th Asian Conference on Artificial Intelligence Technology.
+* March 30, 2022, Our paper "[A Receding-Horizon Reinforcement Learning Approach for Kinodynamic Motion Planning of Autonomous Vehicles](https://ieeexplore.ieee.org/document/9756946)" accepted to IEEE Transactiosn on Intelligent Vehicles 2022!
 * February 1, 2022, Our paper "Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots" accepted to ICRA 2022!
 * January 12, 2022, Our paper "[Robust Learning-based Predictive Control for Discrete-time Nonlinear Systems with Unknown Dynamics and State Constraints](https://arxiv.org/abs/1911.09827)" accepted to IEEE Transactions on Systems, Man, and Cybernetics: Systems!
 * December 19, 2021, Our preprint "[Model-Based Safe Reinforcement Learning with Time-Varying State and Control Constraints: An Application to Intelligent Vehicles](https://doi.org/10.36227/techrxiv.17205740.v2)" uploaded at TechRxiv and arXiv!
