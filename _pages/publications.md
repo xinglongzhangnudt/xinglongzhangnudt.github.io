@@ -21,7 +21,7 @@ author_profile: true
 
 <b>[A Receding-Horizon Reinforcement Learning Approach for Kinodynamic Motion Planning of Autonomous Vehicles](https://ieeexplore.ieee.org/document/9756946)</b><br>
 <b>Xinglong Zhang</b>, Yan Jiang, Yang Lu, and Xin Xu.<br>
-<i>Automatica.</i> <b>2021</b>.
+<i>Automatica.</i> <b>2022</b>.
 
 <b>[基于滚动时域强化学习的智能车辆侧向控制算法](doi:10.16383/j.aas.c210555)</b><br>
 <b>Xinglong Zhang</b>, Yang Lu, Wenzhang Li, and Xin Xu.<br>
