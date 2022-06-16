@@ -15,11 +15,11 @@ author_profile: true
 <b>Xinglong Zhang</b>, Wei Pan, Riccardo Scattolini, Shuyou Yu, and Xin Xu.<br>
 <i>Automatica.</i> <b>2021</b>.
 
-<b>[Robust Learning-Based Predictive Control for Discrete-Time Nonlinear Systems With Unknown Dynamics and State Constraints]([https://arxiv.org/abs/2108.13011](https://arxiv.org/abs/1911.09827v4))</b><br>
+<b>[Robust Learning-Based Predictive Control for Discrete-Time Nonlinear Systems With Unknown Dynamics and State Constraints](https://arxiv.org/abs/1911.09827v4)</b><br>
 <b>Xinglong Zhang</b>, Jiahang Liu, Xin Xu, Shuyou Yu, and Hong Chen.<br>
 <i> IEEE Transactions on Systems, Man, and Cybernetics: Systems.</i> <b>2022</b>.
 
-<b>[A Receding-Horizon Reinforcement Learning Approach for Kinodynamic Motion Planning of Autonomous Vehicles]([https://arxiv.org/abs/2108.13011](https://ieeexplore.ieee.org/document/9756946))</b><br>
+<b>[A Receding-Horizon Reinforcement Learning Approach for Kinodynamic Motion Planning of Autonomous Vehicles](https://ieeexplore.ieee.org/document/9756946)</b><br>
 <b>Xinglong Zhang</b>, Yan Jiang, Yang Lu, and Xin Xu.<br>
 <i>Automatica.</i> <b>2021</b>.
 <b>[基于滚动时域强化学习的智能车辆侧向控制算法](doi:10.16383/j.aas.c210555)</b><br>
