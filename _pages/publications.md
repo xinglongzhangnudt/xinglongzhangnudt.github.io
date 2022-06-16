@@ -39,10 +39,6 @@ Bruno Picasso, <b>Xinglong Zhang</b>, and Riccardo Scattolini.<br>
 Marcello Farina, <b>Xinglong Zhang</b>, and Riccardo Scattolini.<br>
 <i>IEEE Transactions on Control Systems Technology.</i> <b>2018</b>.
 
-{%<b>[Multi-Kernel Online Reinforcement Learning for Path Tracking Control of Intelligent Vehicles](https://ieeexplore.ieee.org/abstract/document/8986835)</b><br>%}
-Jiahang Liu, Zhenhua Huang, Xin Xu, <b>Xinglong Zhang</b>, Shiliang Sun, and Dazi Li.<br>
-<i>IEEE Transactions on Systems, Man, and Cybernetics: Systems.</i> <b>2020</b>.%}
-
 <b>[Multi-rate model predictive control algorithm for systems with fast-slow dynamics](https://digital-library.theiet.org/content/journals/10.1049/iet-cta.2018.5220)</b><br>
 <b>Xinglong Zhang</b>,  Marcello Farina, Stefano Spinelli, and Riccardo Scattolini.<br>
 <i>IET Control Theory & Applications.</i> <b>2018</b>.
