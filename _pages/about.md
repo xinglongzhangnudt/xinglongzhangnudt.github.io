@@ -14,7 +14,7 @@ My research interests include learning-based predictive control, safe reinforcem
 Recent News 
 ======
 * January 29, 2023 , Our paper "Receding Horizon Actor-Critic Learning Control for Nonlinear Time-Delay Systems with Unknown Dynamics" accepted at IEEE Transactions on Systems, Man, and Cybernetics: Systems!
-* January 11, 2023 , Our paper "A Deep Koopman Approach for Longitudinal and Lateral Control of Autonomous Ground Vehicles" accepted at ICRA2023!
+* January 11, 2023 , Our paper "A Deep Koopman Approach for Longitudinal and Lateral Control of Autonomous Ground Vehicles" accepted at ICRA 2023!
 * November 14, 2022, Our paper "[Robust consensus control of nonlinear multi-agent systems based on convergence rate estimation](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.6477)" published at International Journal of Robust and Nonlinear Control!
 * September 2, 2022, Our paper "[A Dual-level Model Predictive Control Scheme for Multi-timescale Dynamical Systems](https://ieeexplore.ieee.org/document/9790335)" accepted to IEEE Transactions on Systems, Man, and Cybernetics: Systems!
 * July, 2022, Our paper "Data-driven Kalman Filter with Kernel-based Koopman Operators for Nonlinear Robot Systems" accepted to IROS 2022!
