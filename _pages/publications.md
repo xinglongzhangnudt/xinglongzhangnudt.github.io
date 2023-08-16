@@ -10,6 +10,9 @@ author_profile: true
 <i>Politecnico di Milano.</i> <b>2018</b>.
 
 ## Selected Publications
+<b>[A Dual-level Model Predictive Control Scheme for Multi-timescale Dynamical Systems](https://ieeexplore.ieee.org/document/9790335)</b><br>
+<b>Xinglong Zhang</b>, Wei Jiang, Shuyou Yu, Xin Xu, Zhizhong Li.<br>
+<i> IEEE Transactions on Systems, Man, and Cybernetics: Systems.</i> <b>2023</b>.
 
 <b>[Robust Tube-based Model Predictive Control with Koopman Operators](https://arxiv.org/abs/2108.13011)</b><br>
 <b>Xinglong Zhang</b>, Wei Pan, Riccardo Scattolini, Shuyou Yu, and Xin Xu.<br>
@@ -18,10 +21,6 @@ author_profile: true
 <b>[Robust Learning-Based Predictive Control for Discrete-Time Nonlinear Systems With Unknown Dynamics and State Constraints](https://arxiv.org/abs/1911.09827v4)</b><br>
 <b>Xinglong Zhang</b>, Jiahang Liu, Xin Xu, Shuyou Yu, and Hong Chen.<br>
 <i> IEEE Transactions on Systems, Man, and Cybernetics: Systems.</i> <b>2022</b>.
-
-<b>[A Dual-level Model Predictive Control Scheme for Multi-timescale Dynamical Systems](https://ieeexplore.ieee.org/document/9790335)</b><br>
-<b>Xinglong Zhang</b>, Wei Jiang, Shuyou Yu, Xin Xu, Zhizhong Li.<br>
-<i> IEEE Transactions on Systems, Man, and Cybernetics: Systems.</i> <b>2023</b>.
 
 <b>[A Receding-Horizon Reinforcement Learning Approach for Kinodynamic Motion Planning of Autonomous Vehicles](https://ieeexplore.ieee.org/document/9756946)</b><br>
 <b>Xinglong Zhang</b>, Yan Jiang, Yang Lu, and Xin Xu.<br>
