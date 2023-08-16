@@ -10,6 +10,15 @@ author_profile: true
 <i>Politecnico di Milano.</i> <b>2018</b>.
 
 ## Selected Publications
+* August 12, 2023 , Our paper "Self-learning Sliding Mode Control Based on Adaptive Dynamic Programming for Nonholonomic Mobile Robots" publishes at ISA Transactions!
+<b>[Self-learning Sliding Mode Control Based on Adaptive Dynamic Programming for Nonholonomic Mobile Robots](https://doi.org/10.1016/j.isatra.2023.08.005)</b><br>
+Qingwen Ma, <b>Xinglong Zhang</b>, Xin Xu, Yueneng Yang, Edmond Q. Wu.<br>
+<i> ISA Transactions.</i> <b>2023</b>.
+
+<b>[Receding Horizon Actor–Critic Learning Control for Nonlinear Time-Delay Systems With Unknown Dynamics](https://ieeexplore.ieee.org/document/10103923)</b><br>
+Jianghang Liu, <b>Xinglong Zhang</b>, Xin Xu, Quan Xiong.<br>
+<i> IEEE Transactions on Systems, Man, and Cybernetics: Systems.</i> <b>2023</b>.
+
 <b>[A Dual-level Model Predictive Control Scheme for Multi-timescale Dynamical Systems](https://ieeexplore.ieee.org/document/9790335)</b><br>
 <b>Xinglong Zhang</b>, Wei Jiang, Shuyou Yu, Xin Xu, Zhizhong Li.<br>
 <i> IEEE Transactions on Systems, Man, and Cybernetics: Systems.</i> <b>2023</b>.
