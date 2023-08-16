@@ -18,6 +18,11 @@ author_profile: true
 <b>[Robust Learning-Based Predictive Control for Discrete-Time Nonlinear Systems With Unknown Dynamics and State Constraints](https://arxiv.org/abs/1911.09827v4)</b><br>
 <b>Xinglong Zhang</b>, Jiahang Liu, Xin Xu, Shuyou Yu, and Hong Chen.<br>
 <i> IEEE Transactions on Systems, Man, and Cybernetics: Systems.</i> <b>2022</b>.
+September 2, 2022, Our paper "[A Dual-level Model Predictive Control Scheme for Multi-timescale Dynamical Systems](https://ieeexplore.ieee.org/document/9790335)" accepted to IEEE Transactions on Systems, Man, and Cybernetics: Systems!
+
+<b>[A Dual-level Model Predictive Control Scheme for Multi-timescale Dynamical Systems](https://ieeexplore.ieee.org/document/9790335)</b><br>
+<b>Xinglong Zhang</b>, Wei Jiang, Shuyou Yu, Xin Xu, Zhizhong Li.<br>
+<i> IEEE Transactions on Systems, Man, and Cybernetics: Systems.</i> <b>2023</b>.
 
 <b>[A Receding-Horizon Reinforcement Learning Approach for Kinodynamic Motion Planning of Autonomous Vehicles](https://ieeexplore.ieee.org/document/9756946)</b><br>
 <b>Xinglong Zhang</b>, Yan Jiang, Yang Lu, and Xin Xu.<br>
