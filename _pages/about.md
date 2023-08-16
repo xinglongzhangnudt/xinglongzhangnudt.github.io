@@ -13,6 +13,7 @@ My research interests include learning-based predictive control, safe reinforcem
 
 Recent News 
 ======
+* January 29, 2023 , Our paper "Self-learning Sliding Mode Control Based on Adaptive Dynamic Programming for Nonholonomic Mobile Robots" publishes at ISA Transactions!
 * January 29, 2023 , Our paper "Receding Horizon Actor-Critic Learning Control for Nonlinear Time-Delay Systems with Unknown Dynamics" accepted at IEEE Transactions on Systems, Man, and Cybernetics: Systems!
 * January 11, 2023 , Our paper "A Deep Koopman Approach for Longitudinal and Lateral Control of Autonomous Ground Vehicles" accepted at ICRA 2023!
 * November 14, 2022, Our paper "[Robust consensus control of nonlinear multi-agent systems based on convergence rate estimation](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.6477)" published at International Journal of Robust and Nonlinear Control!
