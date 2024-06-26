@@ -7,15 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Associate Professor at College of Inteligence Science and Technology, National University of Defense Technology (NUDT), Changsha, China. 
+I am an Associate Professor at the College of Intelligence Science and Technology, National University of Defense Technology (NUDT), Changsha, China. 
 
-My research interests include learning-based predictive control, safe reinforcement learning and their applications in robotics, with a special focus on autonomous vehicles.
+My research interests include learning-based predictive control, safe reinforcement learning, and their applications in robotics, with a special focus on autonomous vehicles.
 
 Recent News 
 ======
-* August 12, 2023 , Our paper "Self-learning Sliding Mode Control Based on Adaptive Dynamic Programming for Nonholonomic Mobile Robots" publishes at ISA Transactions!
-* January 29, 2023 , Our paper "Receding Horizon Actor-Critic Learning Control for Nonlinear Time-Delay Systems with Unknown Dynamics" accepted at IEEE Transactions on Systems, Man, and Cybernetics: Systems!
-* January 11, 2023 , Our paper "A Deep Koopman Approach for Longitudinal and Lateral Control of Autonomous Ground Vehicles" accepted at ICRA 2023!
+* June 24, 2024, Our paper "[Game-theoretic Receding-Horizon Reinforcement Learning for Lateral Control of Autonomous Vehicles](https://ieeexplore.ieee.org/document/10570206)" published at IEEE Transactions on Vehicular Technology!
+* February, 2024, Our paper "[Learning-Based Near-Optimal Motion Planning for Intelligent Vehicles With Uncertain Dynamics](https://ieeexplore.ieee.org/abstract/document/10271561)" published at IEEE Robotics and Automation Letters!
+* January  4, 2024, Our paper "[Model-Based Safe Reinforcement Learning With Time-Varying Constraints: Applications to Intelligent Vehicles](https://ieeexplore.ieee.org/abstract/document/10381514)" published at IEEE Transactions on Industrial Electronics!
+* August 12, 2023, Our paper "Self-learning Sliding Mode Control Based on Adaptive Dynamic Programming for Nonholonomic Mobile Robots" published at ISA Transactions!
+* January 29, 2023, Our paper "Receding Horizon Actor-Critic Learning Control for Nonlinear Time-Delay Systems with Unknown Dynamics" accepted at IEEE Transactions on Systems, Man, and Cybernetics: Systems!
+* January 11, 2023, Our paper "A Deep Koopman Approach for Longitudinal and Lateral Control of Autonomous Ground Vehicles" accepted at ICRA 2023!
 * November 14, 2022, Our paper "[Robust consensus control of nonlinear multi-agent systems based on convergence rate estimation](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.6477)" published at International Journal of Robust and Nonlinear Control!
 * September 2, 2022, Our paper "[A Dual-level Model Predictive Control Scheme for Multi-timescale Dynamical Systems](https://ieeexplore.ieee.org/document/9790335)" accepted to IEEE Transactions on Systems, Man, and Cybernetics: Systems!
 * July, 2022, Our paper "Data-driven Kalman Filter with Kernel-based Koopman Operators for Nonlinear Robot Systems" accepted to IROS 2022!
