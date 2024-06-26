@@ -13,6 +13,8 @@ My research interests include learning-based predictive control, safe reinforcem
 
 Recent News 
 ======
+* I serve as a co-chair for the invited session "[Multi-Platform Autonomous Cooperative Perception, Cognition and Decision-Making in Confrontational Environment ](https://icus.c2.org.cn/Invited-Session/)" with submission code P2VNPK at the 2024 7th IEEE International Conference on Unmanned Systems.
+* I serve as a PC member at the 7th Asian Conference on Artificial Intelligence Technology.
 * June 24, 2024, Our paper "[Game-theoretic Receding-Horizon Reinforcement Learning for Lateral Control of Autonomous Vehicles](https://ieeexplore.ieee.org/document/10570206)" published at IEEE Transactions on Vehicular Technology!
 * February, 2024, Our paper "[Learning-Based Near-Optimal Motion Planning for Intelligent Vehicles With Uncertain Dynamics](https://ieeexplore.ieee.org/abstract/document/10271561)" published at IEEE Robotics and Automation Letters!
 * January  4, 2024, Our paper "[Model-Based Safe Reinforcement Learning With Time-Varying Constraints: Applications to Intelligent Vehicles](https://ieeexplore.ieee.org/abstract/document/10381514)" published at IEEE Transactions on Industrial Electronics!
