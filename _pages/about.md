@@ -13,7 +13,7 @@ My research interests include learning-based predictive control, safe reinforcem
 
 Recent News 
 ======
-** Aprial 7, 2025, I will serve as a guest editor for Journal "[Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai)"!
+* Aprial 7, 2025, I will serve as a guest editor for Journal "[Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai)"!
 * Aprial 2, 2025, I serve as an editorial borad member for Journal "[Springer Nature: Discover Vehicles](https://link.springer.com/journal/44465)"!
 * January 20, 2025, Our paper "[Toward Scalable Multirobot Control: Fast Policy Learning in Distributed MPC](https://ieeexplore.ieee.org/abstract/document/10847886)" published at IEEE Transactions on Robotics!
 * January 16, 2025, Our paper "[Receding-Horizon Reinforcement Learning for Time-Delayed Human–Machine Shared Control of Intelligent Vehicles](https://ieeexplore.ieee.org/abstract/document/10844015)" published at IEEE Transactions on Human-Machine Systems!
