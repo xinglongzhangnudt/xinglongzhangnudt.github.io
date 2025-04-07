@@ -13,6 +13,9 @@ My research interests include learning-based predictive control, safe reinforcem
 
 Recent News 
 ======
+* January 20, 2025, Our paper "[Toward Scalable Multirobot Control: Fast Policy Learning in Distributed MPC](https://ieeexplore.ieee.org/abstract/document/10847886)" published at IEEE Transactions on Robotics!
+* January 16, 2025, Our paper "[Receding-Horizon Reinforcement Learning for Time-Delayed Human–Machine Shared Control of Intelligent Vehicles](https://ieeexplore.ieee.org/abstract/document/10844015)" published at IEEE Transactions on Human-Machine Systems!
+* November 17, 2024, Our paper "[Offline-to-Online Learning Enabled Robust Control for Uncertain Robotic Systems Pursuing Constraint-Following]((https://ieeexplore.ieee.org/document/10570206)" published at IEEE Transactions on Industrial Electronics!
 * I serve as a co-chair for the invited session "[Multi-Platform Autonomous Cooperative Perception, Cognition and Decision-Making in Confrontational Environment ](https://icus.c2.org.cn/Invited-Session/)" with submission code P2VNPK at the 2024 7th IEEE International Conference on Unmanned Systems.
 * I serve as a PC member at the 7th Asian Conference on Artificial Intelligence Technology.
 * June 24, 2024, Our paper "[Game-theoretic Receding-Horizon Reinforcement Learning for Lateral Control of Autonomous Vehicles](https://ieeexplore.ieee.org/document/10570206)" published at IEEE Transactions on Vehicular Technology!
