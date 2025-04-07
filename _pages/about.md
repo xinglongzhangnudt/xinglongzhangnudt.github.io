@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Associate Professor at the College of Intelligence Science and Technology, National University of Defense Technology (NUDT), Changsha, China. 
+I am an Associate Professor at the College of Intelligence Science and Technology, National University of Defense Technology (NUDT), Changsha, China. I receieved my PhD degree from Politecnico di Milano, Italy!
 
-My research interests include learning-based predictive control, safe reinforcement learning, and their applications in robotics, with a special focus on autonomous vehicles.
+My research interests include Koopman operators, learning-based predictive control, reinforcement learning, and their applications in robotics and autonomous systems.
 
 Recent News 
 ======
