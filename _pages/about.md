@@ -15,6 +15,7 @@ Recent News
 ======
 * Aprial 7, 2025, I will serve as a guest editor for Journal "[Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai)"!
 * Aprial 2, 2025, I serve as an editorial borad member for Journal "[Springer Nature: Discover Vehicles](https://link.springer.com/journal/44465)"!
+* March 17, 2025, Our paper "[ Aggressive Maneuver for Unmanned Aerial Vehicle: A Data‐Informed Model Free Method](http://doi.org/10.1002/rnc.7889)"  published at International Journal of Robust and Nonlinear Control!
 * January 20, 2025, Our paper "[Toward Scalable Multirobot Control: Fast Policy Learning in Distributed MPC](https://ieeexplore.ieee.org/abstract/document/10847886)" published at IEEE Transactions on Robotics!
 * January 16, 2025, Our paper "[Receding-Horizon Reinforcement Learning for Time-Delayed Human–Machine Shared Control of Intelligent Vehicles](https://ieeexplore.ieee.org/abstract/document/10844015)" published at IEEE Transactions on Human-Machine Systems!
 * November 17, 2024, Our paper "[Offline-to-Online Learning Enabled Robust Control for Uncertain Robotic Systems Pursuing Constraint-Following]((https://ieeexplore.ieee.org/document/10570206)" published at IEEE Transactions on Industrial Electronics!
