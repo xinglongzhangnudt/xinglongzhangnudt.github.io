@@ -13,11 +13,11 @@ My research interests include Koopman operators, learning-based predictive contr
 
 Recent News 
 ======
-*July 3, 2025, Our sepcial issue "[Embodied Intelligence for Adaptive and Lifelong Robotic Systems](https://www.frontiersin.org/research-topics/71958/embodied-intelligence-for-adaptive-and-lifelong-robotic-systems)" in Frontiers in Robotics and AI is open for submission!
-*June 30, 2025, Our paper "Game-Theoretic Constrained Policy Optimization for Safe Reinforcement Learning" is accepted to IEEE Transactions on Neural Networks and Learning Systems!
-*June 27, 2025, Our paper "[Vector Field Augmented Reinforcement Learning for Adaptive Motion Planning of Mobile Robots](https://arxiv.org/html/2405.08283v2)" is accepted to IEEE Transactions on Neural Networks and Learning Systems!
-*June 18, 2025, Our paper "[Receding-Horizon Multi-Kernel Reinforcement Learning for Motion Planning of Intelligent Vehicles](10.1109/TIE.2025.3569956)" is published at IEEE Transactions on Industrial Electronics!
-*June 16, 2025, Our three papers are accepted to IROS!
+* July 3, 2025, Our sepcial issue "[Embodied Intelligence for Adaptive and Lifelong Robotic Systems](https://www.frontiersin.org/research-topics/71958/embodied-intelligence-for-adaptive-and-lifelong-robotic-systems)" in Frontiers in Robotics and AI is open for submission!
+* June 30, 2025, Our paper "Game-Theoretic Constrained Policy Optimization for Safe Reinforcement Learning" is accepted to IEEE Transactions on Neural Networks and Learning Systems!
+* June 27, 2025, Our paper "[Vector Field Augmented Reinforcement Learning for Adaptive Motion Planning of Mobile Robots](https://arxiv.org/html/2405.08283v2)" is accepted to IEEE Transactions on Neural Networks and Learning Systems!
+* June 18, 2025, Our paper "[Receding-Horizon Multi-Kernel Reinforcement Learning for Motion Planning of Intelligent Vehicles](10.1109/TIE.2025.3569956)" is published at IEEE Transactions on Industrial Electronics!
+* June 16, 2025, Our three papers are accepted to IROS!
 * April 7, 2025, I will serve as a guest editor for Journal "[Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai)"!
 * April 2, 2025, I serve as an editorial borad member for Journal "[Springer Nature: Discover Vehicles](https://link.springer.com/journal/44465)"!
 * March 17, 2025, Our paper "[ Aggressive Maneuver for Unmanned Aerial Vehicle: A Data‐Informed Model Free Method](http://doi.org/10.1002/rnc.7889)"  published at International Journal of Robust and Nonlinear Control!
