@@ -36,7 +36,6 @@ Recent News
 * November 14, 2022, Our paper "[Robust consensus control of nonlinear multi-agent systems based on convergence rate estimation](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.6477)" published at International Journal of Robust and Nonlinear Control!
 * September 2, 2022, Our paper "[A Dual-level Model Predictive Control Scheme for Multi-timescale Dynamical Systems](https://ieeexplore.ieee.org/document/9790335)" accepted to IEEE Transactions on Systems, Man, and Cybernetics: Systems!
 * July, 2022, Our paper "Data-driven Kalman Filter with Kernel-based Koopman Operators for Nonlinear Robot Systems" accepted to IROS 2022!
-* I serve as a Guest Editor on a special issue at the Journal: “[Applied Sciences](https://www.mdpi.com/journal/applsci/special_issues/2IEDK599AN)” (IF=2.7).
 * May, 2022, Our paper "[Deep Neural Networks with Koopman Operators for Modeling and Control of Autonomous Vehicles](https://ieeexplore.ieee.org/document/9790335)" accepted to IEEE Transactiosn on Intelligent Vehicles 2022!
 * I serve as a PC member at the 6th Asian Conference on Artificial Intelligence Technology.
 * March 30, 2022, Our paper "[A Receding-Horizon Reinforcement Learning Approach for Kinodynamic Motion Planning of Autonomous Vehicles](https://ieeexplore.ieee.org/document/9756946)" accepted to IEEE Transactiosn on Intelligent Vehicles 2022!
