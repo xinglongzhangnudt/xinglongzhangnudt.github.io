@@ -13,6 +13,7 @@ My research interests include Koopman operators, learning-based predictive contr
 
 Recent News 
 ======
+* July 15, 2025, Our paper "Multi-Kernel Enhanced Receding-Horizon Reinforcement Learning for Steering Control of Intelligent Vehicles" is accepted at IEEE Transactions on Intelligent Transportation Systems!
 * July 3, 2025, Our sepcial issue "[Embodied Intelligence for Adaptive and Lifelong Robotic Systems](https://www.frontiersin.org/research-topics/71958/embodied-intelligence-for-adaptive-and-lifelong-robotic-systems)" in Frontiers in Robotics and AI is open for submissions!
 * June 30, 2025, Our paper "Game-Theoretic Constrained Policy Optimization for Safe Reinforcement Learning" is accepted to IEEE Transactions on Neural Networks and Learning Systems!
 * June 27, 2025, Our paper "[Vector Field Augmented Reinforcement Learning for Adaptive Motion Planning of Mobile Robots](https://arxiv.org/html/2405.08283v2)" is accepted to IEEE/ASME Transactions on Mechatronics!
