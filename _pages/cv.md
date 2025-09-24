@@ -34,3 +34,5 @@ Awards
 ======
 * CSC PhD Scholarship, 2014-2018
 * Distinguished Young Scholars in NUDT
+* 科协青年人才托举工程
+* 湖湘青年科技英才
