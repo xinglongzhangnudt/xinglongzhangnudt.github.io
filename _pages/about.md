@@ -7,13 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Associate Professor at the College of Intelligence Science and Technology, National University of Defense Technology (NUDT), Changsha, China. I receieved my PhD degree in System and Control from Politecnico di Milano (2018), Italy.
+I am an Associate Professor at the College of Intelligence Science and Technology, National University of Defense Technology (国防科技大学), Changsha, China. I receieved my PhD degree in System and Control from Politecnico di Milano (2018), Italy.
 
-My research interests include Koopman operators, learning-based predictive control, reinforcement learning, and their applications in robotics and autonomous systems. We are accepting PhD candidates.
+My research interests include reinforcement learning, Koopman operators, learning-based predictive control, and their applications in humanoid robotics, autonomous systems, and soft robotic arms. We are accepting PhD candidates.
 
 Recent News 
 ======
-* July 15, 2025, Our paper "Multi-Kernel Enhanced Receding-Horizon Reinforcement Learning for Steering Control of Intelligent Vehicles" is accepted at IEEE Transactions on Intelligent Transportation Systems!
+* September 20, 2025, Our paper "[A Unified and Quality-Guaranteed Approach for Dubins Vehicle Path Planning With Obstacle Avoidance and Curvature Constraint](10.1109/TITS.2025.3606479)" is published at IEEE Transactions on Intelligent Transportation Systems!
+* September 10, 2025, Our paper "[Multirate Distributed Receding Horizon Reinforcement Learning for Optimal UAV-UGV Formation Control](10.1109/TAI.2025.3607722)" is published at IEEE Transactions on Artificial Intelligence!
+* July 15, 2025, Our paper "[Multi-Kernel Enhanced Receding-Horizon Reinforcement Learning for Steering Control of Intelligent Vehicles](10.1109/TITS.2025.3591906)" is accepted at IEEE Transactions on Intelligent Transportation Systems!
 * July 3, 2025, Our sepcial issue "[Embodied Intelligence for Adaptive and Lifelong Robotic Systems](https://www.frontiersin.org/research-topics/71958/embodied-intelligence-for-adaptive-and-lifelong-robotic-systems)" in Frontiers in Robotics and AI is open for submissions!
 * June 30, 2025, Our paper "Game-Theoretic Constrained Policy Optimization for Safe Reinforcement Learning" is accepted to IEEE Transactions on Neural Networks and Learning Systems!
 * June 27, 2025, Our paper "[Vector Field Augmented Reinforcement Learning for Adaptive Motion Planning of Mobile Robots](https://arxiv.org/html/2405.08283v2)" is accepted to IEEE/ASME Transactions on Mechatronics!
