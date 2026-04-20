@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an Associate Professor at the College of Intelligence Science and Technology, National University of Defense Technology (国防科技大学), Changsha, China. I received my PhD degree in Systems and Control from Politecnico di Milano (2018), Italy.
 
-My research interests include reinforcement learning, Koopman operators, learning-based predictive control, and their applications in humanoid robotics, autonomous systems, and soft robotic arms. We are accepting PhD candidates (本人每年固定招收2-3名博士，欢迎联系报考).
+My research interests include reinforcement learning, Koopman operators, learning-based predictive control, and their applications in humanoid robotics, autonomous systems, and soft robotic arms. We are accepting PhD candidates (每年固定招收2-3名博士，欢迎联系报考).
 
 Recent News 
 ======
