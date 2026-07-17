@@ -9,10 +9,11 @@ redirect_from:
 ---
 I am an Associate Professor at the College of Intelligence Science and Technology, National University of Defense Technology (国防科技大学), Changsha, China. I received my PhD degree in Systems and Control from Politecnico di Milano (2018), Italy.
 
-My research interests include reinforcement learning, Koopman operators, learning-based predictive control, and their applications in humanoid robotics, autonomous systems, and soft robotic arms. We are accepting PhD candidates (每年固定招收2-3名博士生和2-3名硕士生，欢迎联系报考).
+My research interests include reinforcement learning, Koopman operators, learning-based predictive control, and their applications in humanoid robotics, autonomous systems, and soft robotic arms. We are accepting PhD candidates (每年固定招收2-3名博士生和4名硕士生，欢迎联系报考).
 
 Recent News 
 ======
+* June, 2026, Our paper "[Reinforcement learning in linear embedding space unlocks generalizable control across soft robot configurations]([10.1109/TIE.2025.3634429](https://doi.org/10.1038/s41467-026-72491-9))" is published at Nature Communications!
 * January, 2026, Our paper "[Adaptive Deep Koopman Operators for Soft Robot Control: Application to Luban Lock Disassembly](10.1109/TIE.2025.3634429)" is published at IEEE Transactions on Industrial Electronics!
 * January, 2026, Our paper "[Distributed dynamic containment problem in discrete-time switching networks](10.1016/j.automatica.2025.112689)" is published at Automatica!
 * September 20, 2025, Our paper "[A Unified and Quality-Guaranteed Approach for Dubins Vehicle Path Planning With Obstacle Avoidance and Curvature Constraint](10.1109/TITS.2025.3606479)" is published at IEEE Transactions on Intelligent Transportation Systems!
