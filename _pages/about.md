@@ -13,7 +13,7 @@ My research interests include reinforcement learning, Koopman operators, learnin
 
 Recent News 
 ======
-* Sep, 3, Our paper "Distributed Secure Learning Control for Large-scale Multirobots under
+* Sep, 3, 2026, Our paper "Distributed Secure Learning Control for Large-scale Multirobots under
 Stealthy Actuator Attacks" is accepted to IEEE Transactions on Robotics!
 * June, 2026, Our paper "[Reinforcement learning in linear embedding space unlocks generalizable control across soft robot configurations]([10.1109/TIE.2025.3634429](https://doi.org/10.1038/s41467-026-72491-9))" is published at Nature Communications!
 * January, 2026, Our paper "[Adaptive Deep Koopman Operators for Soft Robot Control: Application to Luban Lock Disassembly](10.1109/TIE.2025.3634429)" is published at IEEE Transactions on Industrial Electronics!
