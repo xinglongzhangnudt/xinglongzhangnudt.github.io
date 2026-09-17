@@ -14,7 +14,7 @@ My research interests include reinforcement learning, world models, Koopman oper
 Recent News 
 ======
 * September, 17, 2026, I serve as an Associate Editor for IEEE ICRA 2027!
-* * September, 2026, Our paper "[Incremental reinforcement learning for safe optimal control of unknown nonlinear systems]([10.1016/j.automatica.2026.113257])" is published at Automatica!
+* September, 2026, Our paper "[Incremental reinforcement learning for safe optimal control of unknown nonlinear systems]([10.1016/j.automatica.2026.113257])" is published at Automatica!
 * September, 3, 2026, Our paper "Distributed Secure Learning Control for Large-scale Multirobots under Stealthy Actuator Attacks" is accepted to IEEE Transactions on Robotics!
 * August, 4, 2026, Our paper "Latent MeanFlow Policy Optimization for Offline Reinforcement Learning([10.1109/TPAMI.2026.3720530](https://ieeexplore.ieee.org/abstract/document/11641025/))" is published at IEEE Transactions on Pattern Analysis and Machine Intelligence!
 * June, 2026, Our paper "[Reinforcement learning in linear embedding space unlocks generalizable control across soft robot configurations]([10.1109/TIE.2025.3634429](https://doi.org/10.1038/s41467-026-72491-9))" is published at Nature Communications!
