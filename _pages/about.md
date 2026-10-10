@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Associate Professor, PhD Supervisor at the College of Intelligence Science and Technology, National University of Defense Technology (国防科技大学), Changsha, China. I received my PhD degree in Systems and Control from Politecnico di Milano (2018), Italy. I am on the Editorial Board of Discover Vehicles and an Associate Editor for IEEE ICRA 2027.
+I am an Associate Professor and Ph.D. Supervisor at the College of Intelligence Science and Technology, National University of Defense Technology (国防科技大学), Changsha, China. I received my Ph.D. degree in Systems and Control from Politecnico di Milano, Italy, in 2018. I currently serve as an Editorial Board Member of Discover Vehicles and an Associate Editor for IEEE Robotics and Automation Letters and IEEE International Conference on Robotics and Automation (ICRA 2027).
 
 My research interests include reinforcement learning, world models, Koopman operators, learning-based predictive control, and their applications in humanoid robotics, autonomous systems, and soft robotic arms. We are accepting PhD candidates (每年固定招收2-4名博士生以及若干博士后).
 
 Recent News 
 ======
+* October, 10, 2026, I serve as an Associate Editor for IEEE Robotics and Automation Letters!
 * September, 17, 2026, I serve as an Associate Editor for IEEE ICRA 2027!
 * September, 2026, Our paper "[Incremental reinforcement learning for safe optimal control of unknown nonlinear systems]([10.1016/j.automatica.2026.113257])" is published at Automatica!
 * September, 3, 2026, Our paper "Distributed Secure Learning Control for Large-scale Multirobots under Stealthy Actuator Attacks" is accepted to IEEE Transactions on Robotics!
