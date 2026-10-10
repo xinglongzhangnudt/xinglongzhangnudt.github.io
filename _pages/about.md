@@ -9,7 +9,8 @@ redirect_from:
 ---
 I am an Associate Professor and Ph.D. Supervisor at the College of Intelligence Science and Technology, National University of Defense Technology (国防科技大学), Changsha, China. I received my Ph.D. degree in Systems and Control from Politecnico di Milano, Italy, in 2018. I currently serve as an Editorial Board Member of Discover Vehicles and an Associate Editor for IEEE Robotics and Automation Letters and IEEE International Conference on Robotics and Automation (ICRA 2027).
 
-My research interests include reinforcement learning, world models, Koopman operators, learning-based predictive control, and their applications in humanoid robotics, autonomous systems, and soft robotic arms. We are accepting PhD candidates (每年固定招收2-4名博士生以及若干博士后).
+My research interests include reinforcement learning, world models, Koopman operator theory, and learning-based predictive control, with applications in humanoid robots, autonomous systems, and soft robotics.
+Open Positions: Our research group actively recruits Ph.D. and Master's students, research interns, and visiting students, and welcomes applications from prospective postdoctoral researchers.
 
 Recent News 
 ======
